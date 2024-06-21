@@ -1,9 +1,12 @@
 # Compiled class file
 *.class
 mvnw*
+.mv*
+
 
 # Log file
 *.log
+.gitignore
 
 # BlueJ files
 *.ctxt
